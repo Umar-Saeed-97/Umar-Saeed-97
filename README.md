@@ -1,20 +1,50 @@
-<h1 align="center">Howdy 👋, I'm Umar Saeed</h1>
-<h3 align="center">A fervent explorer of the boundless realm of Computer Vision.</h3>
+# Hi there 👋, I'm Umar Saeed
 
-- 👨‍💻 All of my projects are available at [https://github.com/Umar-Saeed-97?tab=repositories](https://github.com/Umar-Saeed-97?tab=repositories)
+## 👋 About Me
 
-- 💬 Ask me about **Image Classification, Face Recognition, Object Detection, Image Segmentation, Object Tracking & Pose Estimation.**
+Frontend Engineer turned Full Stack Developer, specializing in React and Next.js, with a passion for building seamless web experiences from client to server.
 
-- 📫 How to reach me **umarsaeedalam@gmail.com**
+## 🚀 What I Do
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gegOmUTyArkbbZ3XTMsGFvSKx95uWbzD/view?usp=share_link](https://drive.google.com/file/d/1gegOmUTyArkbbZ3XTMsGFvSKx95uWbzD/view?usp=share_link)
+I'm a developer who started my journey in frontend engineering, mastering React and its ecosystem before expanding into full stack development through Next.js. This progression has given me a deep understanding of both client-side excellence and server-side architecture.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umarsaeedalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umarsaeedalam" height="30" width="40" /></a>
-<a href="https://kaggle.com/ryzer97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ryzer97" height="30" width="40" /></a>
-</p>
+## 💡 Background
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+My technical journey has evolved through several key phases:
 
+- **Frontend**: Built a strong foundation with React, understanding its core principles and advanced patterns
+- **Full Stack Evolution**: Leveraged Next.js to bridge the gap between frontend and backend development
+- **Machine Learning**: Previously worked on Computer Vision projects, bringing a unique analytical perspective to web development
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- Core: React.js, TypeScript, JavaScript (ES6+)
+- Framework: Next.js
+
+### Backend & Database
+
+- Runtime: Node.js
+- APIs: REST, tRPC
+- Databases: MongoDB, PostgreSQL, MySQL
+- ORM: Prisma
+
+### Tools & Platforms
+
+- Version Control: Git, GitHub
+- Deployment: Vercel
+
+## Previously Worked With
+
+- Machine Learning: Python, OpenCV, TensorFlow
+- Computer Vision: Image Processing, Object Detection
+
+## 📊 GitHub Presence
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar-Saeed-97&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent&hide=commits,prs,issues,contribs&hide_border=true)
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/umarsaeedalam)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umarsaeedalam@gmail.com)
